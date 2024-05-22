@@ -53,6 +53,8 @@ The files included in this repository are:
 | Avg Gross Per Performance*	| `SUM([Weekly Gross Revenue])/SUM([Weekly Performances])`                              	|
 | RevPAS*                   	| Revenue per Seat—total possible dollars for each seat.                                	|
 
+![image](https://github.com/amrubinson/Tableau/assets/157393313/0b6147bc-6063-4ed4-956b-1e030f5f1b3a)
+
 
 ### Learning Process
 
